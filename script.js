@@ -8,7 +8,7 @@ function deleteLastChar() {
 }
 
 function resetCalculator() {
-    document.calculator.display.value = '';
+    document.calculator.display.value = '0';
 }
 
 function calculateResult() {
